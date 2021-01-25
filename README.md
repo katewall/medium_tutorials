@@ -1,2 +1,2 @@
 # medium_tutorials
-## reference files to support posts I have authored at https://medium.com/@k8wall
+## reference files to support posts authored at https://medium.com/@k8wall
